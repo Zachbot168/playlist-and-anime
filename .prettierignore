@@ -1,0 +1,9 @@
+node_modules
+dist
+coverage
+.vite
+.cache
+*.log
+*.lock
+.DS_Store
+public/vite.svg
